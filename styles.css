@@ -45,3 +45,8 @@ button:hover {
     padding: 20px;
     width: 200px;
 }
+
+.tachado {
+    text-decoration: line-through;
+    color: gray;
+}
