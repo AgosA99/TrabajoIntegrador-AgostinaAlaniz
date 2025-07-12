@@ -10,4 +10,5 @@ Funcionalidades:
 - Interfaz responsive y amigable
 
 Captura de pantalla:
-<img width="1913" height="863" alt="image" src="https://github.com/user-attachments/assets/48b4b520-f0a5-424b-b5b0-68e102c31f27" />
+<img width="1919" height="855" alt="image" src="https://github.com/user-attachments/assets/d0f275fa-6822-4124-88bd-4060c5eb2093" />
+
